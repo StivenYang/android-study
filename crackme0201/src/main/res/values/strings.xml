@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Crackme0201</string>
+    <string name="unregister">unregister</string>
+    <string name="register">register</string>
+    <string name="successed">successed!</string>
+    <string name="unsuccessed">unsuccessed</string>
+    <string name="msg_register">注册码：</string>
 </resources>
